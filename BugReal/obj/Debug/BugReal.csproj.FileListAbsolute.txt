@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\BugReal\BugReal\bin\Debug\BugReal.exe.config
+C:\Users\andre\source\repos\BugReal\BugReal\bin\Debug\BugReal.exe
+C:\Users\andre\source\repos\BugReal\BugReal\bin\Debug\BugReal.pdb
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.Form1.resources
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.Properties.Resources.resources
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.exe
+C:\Users\andre\source\repos\BugReal\BugReal\obj\Debug\BugReal.pdb
